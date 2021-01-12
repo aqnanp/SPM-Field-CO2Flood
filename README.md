@@ -1,5 +1,6 @@
 # SPM-Field-CO2Flood
 Field Based Smart Proxy Model - Optimization for CO2 Flooding Case
+
 CO2 injection is one of the most common EOR methods employed in mature fields. When
 injecting CO2 into the reservoir, it will reduce the oil viscosity, add an acidic effect on
 carbonate and shaley rock, swells oil, and reduces IFT between oil and water-based on
@@ -10,6 +11,7 @@ When coming to the design, optimization needs to be performed to find the optimu
 flow design. Doing this takes a lot of time, as conventional reservoir simulation takes
 many times to generate one case, not to forget that the optimization problem is a complex
 problem.
+
 Employing Smart Proxy Model (SPM) to substitutes our reservoir model and coupling
 with an optimization algorithm helps to tackle this problem. An optimization study to
 maximize the total oil produced on CO2 flooding synthetic case was performed in this
