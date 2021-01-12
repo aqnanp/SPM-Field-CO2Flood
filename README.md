@@ -1,5 +1,7 @@
 # SPM-Field-CO2Flood
 Field Based SPM - Optimization for CO2 Flooding Case
+This is a case studied during 3rd semester at NTNU as a fulfillment for TPG4560 Course.
+Abstract, details and the study result are reported in the project report.
 
 Matlab Codes
 1. Eclipse_Multiple_Run : Code to do multiple Eclipse run based on data
